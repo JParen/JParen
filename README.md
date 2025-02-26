@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JParen
-- 👀 I’m interested in Game Development
+- 👀 I’m interested in Programming / Game Development
 - 🌱 I’m currently a student of Diploma in Computer Science
 - 📫 You may be able to reach me through my Discord server ➡️ https://discord.gg/MXpu9SmsnY
 - ⚡ You may visit www.youtube.com/@JParen. It will be my main channel regarding on programming / game development topics
