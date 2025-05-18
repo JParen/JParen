@@ -1,6 +1,6 @@
 Hi, I’m JParen.
 
-- Role: Programming, Game Development
+- Role: Programmer
 - Status: Diploma student in Computer Science
 - Discord: (Not available at the moment)
 - YouTube: https://www.youtube.com/@JParen
