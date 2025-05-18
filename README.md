@@ -1,9 +1,9 @@
 Hi, I’m JParen.
 
-Role: Programming, Game Development
-Status: Diploma student in Computer Science
-Discord: (Not available at the moment)
-YouTube: https://www.youtube.com/@JParen
+- Role: Programming, Game Development
+- Status: Diploma student in Computer Science
+- Discord: (Not available at the moment)
+- YouTube: https://www.youtube.com/@JParen
 
 <!---
 JParen/JParen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
